@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/speechstate/static/css/main.e164979b.chunk.css",
-    "main.js": "/speechstate/static/js/main.369ee8aa.chunk.js",
-    "main.js.map": "/speechstate/static/js/main.369ee8aa.chunk.js.map",
-    "runtime-main.js": "/speechstate/static/js/runtime-main.3b14f31b.js",
-    "runtime-main.js.map": "/speechstate/static/js/runtime-main.3b14f31b.js.map",
-    "static/js/2.093e8d04.chunk.js": "/speechstate/static/js/2.093e8d04.chunk.js",
-    "static/js/2.093e8d04.chunk.js.map": "/speechstate/static/js/2.093e8d04.chunk.js.map",
-    "index.html": "/speechstate/index.html",
-    "static/css/main.e164979b.chunk.css.map": "/speechstate/static/css/main.e164979b.chunk.css.map",
-    "static/js/2.093e8d04.chunk.js.LICENSE.txt": "/speechstate/static/js/2.093e8d04.chunk.js.LICENSE.txt"
+    "main.css": "/xiaoshaor/speechstate-lt2216/static/css/main.e164979b.chunk.css",
+    "main.js": "/xiaoshaor/speechstate-lt2216/static/js/main.f6fb047c.chunk.js",
+    "main.js.map": "/xiaoshaor/speechstate-lt2216/static/js/main.f6fb047c.chunk.js.map",
+    "runtime-main.js": "/xiaoshaor/speechstate-lt2216/static/js/runtime-main.d4a283d9.js",
+    "runtime-main.js.map": "/xiaoshaor/speechstate-lt2216/static/js/runtime-main.d4a283d9.js.map",
+    "static/js/2.0ca29a1d.chunk.js": "/xiaoshaor/speechstate-lt2216/static/js/2.0ca29a1d.chunk.js",
+    "static/js/2.0ca29a1d.chunk.js.map": "/xiaoshaor/speechstate-lt2216/static/js/2.0ca29a1d.chunk.js.map",
+    "index.html": "/xiaoshaor/speechstate-lt2216/index.html",
+    "static/css/main.e164979b.chunk.css.map": "/xiaoshaor/speechstate-lt2216/static/css/main.e164979b.chunk.css.map",
+    "static/js/2.0ca29a1d.chunk.js.LICENSE.txt": "/xiaoshaor/speechstate-lt2216/static/js/2.0ca29a1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b14f31b.js",
-    "static/js/2.093e8d04.chunk.js",
+    "static/js/runtime-main.d4a283d9.js",
+    "static/js/2.0ca29a1d.chunk.js",
     "static/css/main.e164979b.chunk.css",
-    "static/js/main.369ee8aa.chunk.js"
+    "static/js/main.f6fb047c.chunk.js"
   ]
 }
